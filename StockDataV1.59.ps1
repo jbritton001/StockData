@@ -1,5 +1,6 @@
 ﻿# Replace API_KEY with your Alpha Vantage API key
-$apiKey = "9O5Z6EXAX29X4X8D"
+$apiKey = "YOUR OWN API KEY"
+# can get yours here: https://www.alphavantage.co
 
 # Loop until the user chooses to exit
 do {
